@@ -1,1 +1,1 @@
-# MachineLearning---UniversityScorePrediction
+# MachineLearning-UniversityScorePrediction
